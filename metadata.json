@@ -1,0 +1,6 @@
+{
+  "name": "Syntex Store",
+  "description": "A premium, modern e-commerce storefront designed for a seamless shopping experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
